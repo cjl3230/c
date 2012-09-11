@@ -1,7 +1,6 @@
 We recommend that every repository has a README, LICENSE, and .gitignore
 
 
-
 -------------------------------------------------------------------------------
 
 
