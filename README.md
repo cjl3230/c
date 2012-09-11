@@ -1,7 +1,9 @@
-We recommend that every repository has a README, LICENSE, and .gitignore 
+We recommend that every repository has a README, LICENSE, and .gitignore
 
 
---------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+
 
 Create a new repository on the command line
 touch README.md
